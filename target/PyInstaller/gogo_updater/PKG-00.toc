@@ -31,7 +31,7 @@
    '(x86)\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
    'PYSOURCE'),
   ('fbs_pyinstaller_hook',
-   'C:\\Users\\peera\\AppData\\Local\\Temp\\tmppppqvd7k\\fbs_pyinstaller_hook.py',
+   'C:\\Users\\peera\\AppData\\Local\\Temp\\tmp5bdqa1cx\\fbs_pyinstaller_hook.py',
    'PYSOURCE'),
   ('pyi_rth_qt5',
    'c:\\program files '
